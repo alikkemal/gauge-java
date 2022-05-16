@@ -1,0 +1,15 @@
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/models/browsers/chrome/Chrome.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/elements/IRegisterPageElement.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/elements/ISearchPageElement.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/pages/SignInPage.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/pages/Page.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/utils/WriteFile.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/models/browsers/Browser.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/pages/SearchPage.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/elements/ISignInPageElement.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/models/browsers/SeleniumBrowser.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/models/visitor/Visitor.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/pages/RegisterPage.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/pages/HomePage.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/utils/Config.java
+/Users/alikemal.bas/Desktop/gauge-java/src/main/java/com/dmall/uat/mallfront/elements/IHomePageElement.java

@@ -1,0 +1,5 @@
+
+
+java:S1845"tRename method "isUserLoggedIn" to prevent any misunderstanding/clash with field "isUserLoggedIn" defined on line 16.(–€Ñ‡8¡²·ÃŒ0
+z
+java:S1104"ZMake isUserLoggedIn a static final constant or non-public and provide accessors if needed.(Ãç®øÿÿÿÿ8¡²·ÃŒ0

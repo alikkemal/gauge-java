@@ -1,0 +1,5 @@
+
+z
+java:S1845"]Rename method "url" to prevent any misunderstanding/clash with field "url" defined on line 7.(ç•‰‰8õÇ¶ÃŒ0
+l
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(…åØ8õÇ¶ÃŒ0

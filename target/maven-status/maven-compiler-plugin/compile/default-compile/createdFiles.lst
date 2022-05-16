@@ -1,0 +1,15 @@
+com/dmall/uat/mallfront/utils/Config.class
+com/dmall/uat/mallfront/elements/ISearchPageElement.class
+com/dmall/uat/mallfront/elements/ISignInPageElement.class
+com/dmall/uat/mallfront/pages/HomePage.class
+com/dmall/uat/mallfront/pages/SearchPage.class
+com/dmall/uat/mallfront/models/browsers/chrome/Chrome.class
+com/dmall/uat/mallfront/pages/Page.class
+com/dmall/uat/mallfront/pages/RegisterPage.class
+com/dmall/uat/mallfront/models/browsers/SeleniumBrowser.class
+com/dmall/uat/mallfront/models/visitor/Visitor.class
+com/dmall/uat/mallfront/pages/SignInPage.class
+com/dmall/uat/mallfront/utils/WriteFile.class
+com/dmall/uat/mallfront/models/browsers/Browser.class
+com/dmall/uat/mallfront/elements/IRegisterPageElement.class
+com/dmall/uat/mallfront/elements/IHomePageElement.class
